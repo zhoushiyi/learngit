@@ -9,6 +9,4 @@ support 3 way to access:
 
 ## clone repository
 example:
-    $ git clone git://github.com/zhoushiyi/learngit.git
-
-`
+    $ git clone git@github.com:zhoushiyi/learngit.git
